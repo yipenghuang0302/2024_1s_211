@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__
+
+*.txt
+*.png
+submissions.zip
+submissions
+*_submissions
+moss
+answer_key
+*.csv
+*.xls
+*.xlsx
