@@ -1,0 +1,9 @@
+Current stock of Heaven or Las Vegas: 8
+Resizing the table from 8 to 16.
+Current stock of Homogenic: 13
+-------- FINAL COUNTS --------
+Homogenic: 13
+Vespertine: 8
+Icedancer: 5
+Heaven or Las Vegas: 5
+------------------------------

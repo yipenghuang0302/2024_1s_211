@@ -1,0 +1,15 @@
+No stock of Chromatica.
+Resizing the table from 4 to 8.
+Not enough stock of Back to Black.
+Current stock of Portishead: 3
+Current stock of Mezzanine: 33
+Resizing the table from 8 to 16.
+Current stock of Portishead: 1
+-------- FINAL COUNTS --------
+MAGDALENE: 21
+Chromatica: 12
+Portishead: 14
+Mezzanine: 20
+Back to Black: 4
+OIL OF EVERY PEARL'S UN-INSIDES: 13
+------------------------------

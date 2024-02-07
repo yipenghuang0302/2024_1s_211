@@ -1,0 +1,21 @@
+Resizing the table from 8 to 16
+Current stock of SAWAYAMA: 30
+Current stock of 10,000 gecs: 26
+Not enough stock of SAWAYAMA
+Current stock of SAWAYAMA: 18
+Current stock of 1000 gecs: 35
+Current stock of EXETER: 12
+Current stock of Nevermind: 15
+Not enough stock of KiCk i
+Resizing the table from 16 to 32
+Current stock of Wlfgrl: 17
+-------- FINAL COUNTS --------
+1000 gecs: 35
+KiCk i: 6
+EXETER: 1
+10,000 gecs: 16
+Wlfgrl: 17
+SAWAYAMA: 21
+Nevermind: 15
+Future Nostalgia: 28
+------------------------------

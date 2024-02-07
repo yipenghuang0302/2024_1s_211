@@ -1,0 +1,6 @@
+Current stock of Dummy: 8
+Current stock of Charli: 5
+-------- FINAL COUNTS --------
+Dummy: 6
+Charli: 5
+------------------------------
