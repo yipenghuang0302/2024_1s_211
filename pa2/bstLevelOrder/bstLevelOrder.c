@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "../bstReverseOrder/bst.h"
+#include "bst.h"
 #include "../queue/queue.h"
 
 // A program to perform a LEVEL ORDER (BREADTH-FIRST) TRAVERSAL of a binary search tree
