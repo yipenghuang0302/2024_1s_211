@@ -32,15 +32,6 @@ struct BSTNode* insert ( struct BSTNode* root, int key ) {
     return root;
 }
 
-void depth_first ( struct BSTNode* root ) {
-    if(root!=NULL) // checking if the root is not null
-    {
-        depth_first(root->r_child);// visiting right child
-        printf(" %d ", root->key); // printing data at root
-        depth_first(root->l_child); // visiting left child
-    }
-}
-
 // Delete the BST using recursion and postorder traversal
 void delete_bst ( BSTNode* root ) {
     if ( root->r_child!=NULL ) {
