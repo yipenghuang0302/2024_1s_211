@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
 
     // The easiest way to solve this in C is to invoke the pow() function as follows.
     // Unfortunately, as part of this assignment we are not allowing importing math.h.
-    // Even if you import math.h, that Makefile does not link the math library.
+    // Even if you import math.h, that Makefile does not link the math library using the -lm flag.
     // So, you will need to write a separate algorithm to find the n-th root.
     // printf("%f", pow(x, 1.0/n));
 
