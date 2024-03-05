@@ -8,8 +8,6 @@ import random
 import subprocess
 import string
 
-#I could not find a python function that converts from decimal to any base so I made one.
-#This should be hidden from the student some how (turn it into a module?)
 def decimal_to_base(decimal, base):
     digs = string.digits + string.ascii_uppercase
     digits = []
