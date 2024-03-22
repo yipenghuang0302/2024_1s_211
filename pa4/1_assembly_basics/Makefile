@@ -1,7 +1,7 @@
-OUTPUT=3_leaq
+OUTPUT=1_swap
 CC=gcc
 CFLAGS= -Og -Wall -Werror -std=c99
-ASM = 3_leaq.s
+ASM = 1_swap.s
 
 %.s: %.c
 	$(CC) $(CFLAGS) -S -fno-inline -fno-if-conversion $^ -o $@
