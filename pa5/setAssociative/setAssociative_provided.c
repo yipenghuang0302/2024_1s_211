@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-// Rutgers University 2021 Spring CS 211 Computer Architecture
+// Rutgers University 2024 Spring CS 211 Computer Architecture
 // Assignment based on CS:APP Cache Lab
 
 // 64-bit memory address
